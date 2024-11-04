@@ -1,8 +1,17 @@
 .number {
-    background-color: red;
+    background-color: lightpink;
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
 #number-two {
     font-size: 32px;
     color:blue;
+}
+.number.three {
+    font-size:24px;
+}
+
+#number-four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
